@@ -15,7 +15,6 @@ export default function Home() {
           <Data />
         </div>
         <ScrollDown />
-        <About />
       </div>
     </section>
   );

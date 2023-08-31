@@ -1,10 +1,10 @@
 .home__container {
-  row-gap: 10rem;
+  row-gap: 19rem;
 }
 
 .home__content {
   grid-template-columns: 116px repeat(2, 1fr);
-  padding-top: 7.5rem;
+  padding-top: 12.5rem;
   column-gap: 2rem;
   align-items: center;
   display: grid;
