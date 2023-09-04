@@ -7,6 +7,7 @@ function Social() {
         href="https://www.instagram.com/"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-instagram"></i>
       </a>
@@ -14,6 +15,7 @@ function Social() {
         href="https://dribble.com/"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-dribbble"></i>
       </a>
@@ -21,6 +23,7 @@ function Social() {
         href="https://github.com/"
         className="home__social-icon"
         target="_blank"
+        rel="noreferrer"
       >
         <i class="uil uil-github-alt"></i>
       </a>

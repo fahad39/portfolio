@@ -3,7 +3,6 @@ import "./home.css";
 import Social from "./Social";
 import Data from "./Data";
 import ScrollDown from "./ScrollDown";
-import About from "../about/About";
 
 export default function Home() {
   return (
