@@ -1,5 +1,6 @@
 .home__container {
   row-gap: 5rem;
+  height: 100vh;
 }
 
 .home__content {
