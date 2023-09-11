@@ -4,12 +4,12 @@ function Social() {
   return (
     <div className="home__social">
       <a
-        href="https://www.instagram.com/"
+        href="https://www.linkedin.com/in/fahad-hussain-830691164/"
         className="home__social-icon"
         target="_blank"
         rel="noreferrer"
       >
-        <i class="uil uil-instagram"></i>
+        <i class="uil uil-linkedin"></i>
       </a>
       <a
         href="https://dribble.com/"
@@ -20,7 +20,7 @@ function Social() {
         <i class="uil uil-dribbble"></i>
       </a>
       <a
-        href="https://github.com/"
+        href="https://github.com/fahad39"
         className="home__social-icon"
         target="_blank"
         rel="noreferrer"
