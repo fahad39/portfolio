@@ -57,8 +57,9 @@ function Data() {
       </h1>
       <h3 className="home__subtitle">Software Engineer</h3>
       <p className="home__description">
-        I'm creative designer based in New York, and I'm passionate and
-        dedicated to my work.
+        I'm Software Engineer based in Pakistan,Curiosity is my key strength and
+        most prominent trait which I have used to learn different tools and
+        technologies and build something amazing using them.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello
