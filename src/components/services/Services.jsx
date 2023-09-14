@@ -15,7 +15,7 @@ function Services() {
           <div>
             <i className="uil uil-web-grid services__icon"></i>
             <h3 className="services__title">
-              Product <br /> Designer
+              Website <br /> Designer
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(1)}>
@@ -34,7 +34,7 @@ function Services() {
                 className="uil uil-times services__modal-close"
                 onClick={() => toggleTab(0)}
               ></i>
-              <h3 className="services__modal-title">Product Designer</h3>
+              <h3 className="services__modal-title">Website Designer</h3>
               <p className="services__modal-description">
                 Service with more than 2years of Experience.Providing quality
                 work to clients and companies.
@@ -42,9 +42,7 @@ function Services() {
               <ul className="services__modal-services grid">
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    I develop user interface
-                  </p>
+                  <p className="services__modal-info">I use React.js</p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
@@ -52,21 +50,17 @@ function Services() {
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    I create ux element interaction
-                  </p>
+                  <p className="services__modal-info">Authentication Flow</p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I position your company brand
+                    Store Data in Redux, API integeration
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    Design and mockups of products for companies
-                  </p>
+                  <p className="services__modal-info">Pixel Perfect Design</p>
                 </li>
               </ul>
             </div>
@@ -74,9 +68,9 @@ function Services() {
         </div>
         <div className="services__content">
           <div>
-            <i className="uil uil-arrow services__icon"></i>
+            <i className="uil uil-mobile-android-alt services__icon"></i>
             <h3 className="services__title">
-              UI/UX <br /> Designer
+              Mobile Application <br /> Designer
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(2)}>
@@ -95,9 +89,9 @@ function Services() {
                 className="uil uil-times services__modal-close"
                 onClick={() => toggleTab(0)}
               ></i>
-              <h3 className="services__modal-title">UI/UX Designer</h3>
+              <h3 className="services__modal-title">Mobile App Designer</h3>
               <p className="services__modal-description">
-                Service with more than 2years of Experience.Providing quality
+                Service with more than 1years of Experience.Providing quality
                 work to clients and companies.
               </p>
               <ul className="services__modal-services grid">
@@ -109,25 +103,23 @@ function Services() {
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web Page Devlopment</p>
-                </li>
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I create ux element interaction
+                    React Native Devlopment
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I position your company brand
+                    UI design using Flex box technique
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">
-                    Design and mockups of products for companies
-                  </p>
+                  <p className="services__modal-info">Store data using Redux</p>
+                </li>
+                <li className="services__modal-service">
+                  <i className="uil uil-check-circle services__modal-icon"></i>
+                  <p className="services__modal-info">API integeration</p>
                 </li>
               </ul>
             </div>
@@ -135,9 +127,9 @@ function Services() {
         </div>
         <div className="services__content">
           <div>
-            <i className="uil uil-edit services__icon"></i>
+            <i className="uil uil-arrow services__icon"></i>
             <h3 className="services__title">
-              Visual <br /> Design
+              UI/UX <br /> Design
             </h3>
           </div>
           <span className="services__button" onClick={() => toggleTab(3)}>
@@ -156,7 +148,7 @@ function Services() {
                 className="uil uil-times services__modal-close"
                 onClick={() => toggleTab(0)}
               ></i>
-              <h3 className="services__modal-title">Visual Design</h3>
+              <h3 className="services__modal-title">UI/UX Design</h3>
               <p className="services__modal-description">
                 Service with more than 2years of Experience.Providing quality
                 work to clients and companies.
@@ -170,24 +162,20 @@ function Services() {
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">Web Page Devlopment</p>
-                </li>
-                <li className="services__modal-service">
-                  <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I create ux element interaction
+                    I develop design on Figma
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    I position your company brand
+                    I develop design on Adobe XD
                   </p>
                 </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">
-                    Design and mockups of products for companies
+                    I develop user interactive Mockups
                   </p>
                 </li>
               </ul>
