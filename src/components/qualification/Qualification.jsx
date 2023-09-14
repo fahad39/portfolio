@@ -45,33 +45,19 @@ function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Product Design</h3>
+                <h3 className="qualification__title">
+                  Bachelors of Computer Science
+                </h3>
                 <span className="qualification__subtitle">
-                  Microsoft - Spain
+                  Comstas University - Pakistan
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - present
+                  <i className="uil uil-calender-alt"></i>2017 - 2021
                 </div>
               </div>
               <div>
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
-              </div>
-            </div>
-            <div className="qualification__data">
-              <div></div>
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-              <div>
-                <h3 className="qualification__title">Art Director</h3>
-                <span className="qualification__subtitle">
-                  Spain - Institue
-                </span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - present
-                </div>
               </div>
             </div>
             <div className="qualification__data">
@@ -83,10 +69,10 @@ function Qualification() {
               <div>
                 <h3 className="qualification__title">Web Development</h3>
                 <span className="qualification__subtitle">
-                  Spain - Institue
+                  Pakistan - Coursera
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - present
+                  <i className="uil uil-calender-alt"></i>07/2017 - 10/2017
                 </div>
               </div>
             </div>
@@ -97,12 +83,28 @@ function Qualification() {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">UX Expert</h3>
+                <h3 className="qualification__title">UX Design Fundamentals</h3>
                 <span className="qualification__subtitle">
-                  Spain - Institue
+                  Pakistan - Coursera
                 </span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - present
+                  <i className="uil uil-calender-alt"></i>06/2020 - 07/2020
+                </div>
+              </div>
+            </div>
+            <div className="qualification__data">
+              <div></div>
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
+              </div>
+              <div>
+                <h3 className="qualification__title">Mobile App Development</h3>
+                <span className="qualification__subtitle">
+                  Pakistan - Coursera
+                </span>
+                <div className="qualification__calender">
+                  <i className="uil uil-calender-alt"></i>08/2020 - 10/2020
                 </div>
               </div>
             </div>
@@ -116,12 +118,10 @@ function Qualification() {
           >
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Web Design</h3>
-                <span className="qualification__subtitle">
-                  Spain - Institue
-                </span>
+                <h3 className="qualification__title">Web Developer</h3>
+                <span className="qualification__subtitle">The Hexaa</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - present
+                  <i className="uil uil-calender-alt"></i>2021 - 2022
                 </div>
               </div>
               <div>
@@ -136,28 +136,10 @@ function Qualification() {
                 <span className="qualification__line"></span>
               </div>
               <div>
-                <h3 className="qualification__title">Art Director</h3>
-                <span className="qualification__subtitle">
-                  Spain - Institue
-                </span>
+                <h3 className="qualification__title">Software Engineer</h3>
+                <span className="qualification__subtitle">Powersoft 19</span>
                 <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - present
-                </div>
-              </div>
-            </div>
-            <div className="qualification__data">
-              <div></div>
-              <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-              <div>
-                <h3 className="qualification__title">Web Development</h3>
-                <span className="qualification__subtitle">
-                  Spain - Institue
-                </span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calender-alt"></i>2021 - present
+                  <i className="uil uil-calender-alt"></i>2022 - present
                 </div>
               </div>
             </div>
