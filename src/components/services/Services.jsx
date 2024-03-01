@@ -36,7 +36,7 @@ function Services() {
               ></i>
               <h3 className="services__modal-title">Website Designer</h3>
               <p className="services__modal-description">
-                Service with more than 2years of Experience.Providing quality
+                Service with more than 3 years of Experience.Providing quality
                 work to clients and companies.
               </p>
               <ul className="services__modal-services grid">
@@ -91,7 +91,7 @@ function Services() {
               ></i>
               <h3 className="services__modal-title">Mobile App Designer</h3>
               <p className="services__modal-description">
-                Service with more than 1years of Experience.Providing quality
+                Service with more than 3 years of Experience.Providing quality
                 work to clients and companies.
               </p>
               <ul className="services__modal-services grid">
@@ -150,7 +150,7 @@ function Services() {
               ></i>
               <h3 className="services__modal-title">UI/UX Design</h3>
               <p className="services__modal-description">
-                Service with more than 2years of Experience.Providing quality
+                Service with more than 3 years of Experience.Providing quality
                 work to clients and companies.
               </p>
               <ul className="services__modal-services grid">

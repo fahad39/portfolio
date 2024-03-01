@@ -42,7 +42,7 @@ function Contact() {
               <h3 className="contact__card-title">Whatsapp</h3>
               <span className="contact__card-data">+923234864207</span>
               <a href="https://api.whatsapp.com" className="contact__button">
-                Write me <i className="bx bx-right-arrow-alt"></i>
+                Text me <i className="bx bx-right-arrow-alt"></i>
               </a>
             </div>
             <div className="contact__card">
@@ -50,10 +50,10 @@ function Contact() {
               <h3 className="contact__card-title">Linkedin</h3>
               <span className="contact__card-data">Fahad Hussain</span>
               <a
-                href="www.linkedin.com/in/fahad-hussain-830691164"
+                href="https://www.linkedin.com/in/fahad-hussain-830691164"
                 className="contact__button"
               >
-                Write me <i className="bx bx-right-arrow-alt"></i>
+                Reach out <i className="bx bx-right-arrow-alt"></i>
               </a>
             </div>
           </div>

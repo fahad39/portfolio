@@ -2,6 +2,8 @@ import React from "react";
 import "./footer.css";
 
 const Footer = () => {
+  const d = new Date();
+  const year = d.getFullYear();
   return (
     <footer className="footer">
       <div className="footer__container container">
@@ -17,11 +19,11 @@ const Footer = () => {
               Projects
             </a>
           </li>
-          <li>
+          {/* <li>
             <a href="#testimonials" className="footer__link">
               Testimonials
             </a>
-          </li>
+          </li> */}
         </ul>
         <div className="footer__social">
           <a
@@ -50,7 +52,7 @@ const Footer = () => {
           </a>
         </div>
         <span className="footer__copy">
-          &#169; FahadHussain. ALL rights reserved 2023
+          &#169; FahadHussain. ALL rights reserved {year}
         </span>
       </div>
     </footer>
