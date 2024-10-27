@@ -1,7 +1,7 @@
 import React from "react";
 import "./about.css";
 import AboutImg from "../../assets/profile.jpeg";
-import CV from "../../assets/fahad-Resume.pdf";
+import CV from "../../assets/Fahad-Resume.pdf";
 import Info from "./Info";
 
 function About() {
@@ -15,7 +15,7 @@ function About() {
           <Info />
           <p className="about__description">
             Frontend developer, I create web pages and mobile apps with Reactjs,
-            React Native, Bootstrap, Styled component, AWS, Nodejs, I have 2+
+            React Native, Bootstrap, Styled component, AWS, Nodejs, I have 3+
             years of experience and many Clients are happy with the projects
             carried out.
           </p>

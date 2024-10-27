@@ -12,12 +12,20 @@ function Social() {
         <i class="uil uil-linkedin"></i>
       </a>
       <a
-        href="https://dribble.com/"
+        href="https://www.artstation.com/fahad07"
         className="home__social-icon"
         target="_blank"
         rel="noreferrer"
       >
-        <i class="uil uil-dribbble"></i>
+        <i class="uil uil-rocket"></i>
+      </a>
+      <a
+        href="https://www.behance.net/fahadhussain7"
+        className="home__social-icon"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <i class="uil uil-behance"></i>
       </a>
       <a
         href="https://github.com/fahad39"
