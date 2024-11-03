@@ -1,39 +1,37 @@
-import Work1 from "../../assets/work1.jpg";
-import Work2 from "../../assets/work2.jpg";
-import Work3 from "../../assets/work3.jpg";
-import Work4 from "../../assets/work4.jpg";
+import Work1 from "../../assets/real estate web.png";
+import Work2 from "../../assets/boots.png";
+import Work3 from "../../assets/voice_quiz.png";
+import Work4 from "../../assets/audio_app.png";
 import Work5 from "../../assets/work5.jpg";
 
 export const projectsData = [
   {
     id: 1,
     image: Work1,
-    title: "Web design",
+    title: "Real Estate Website",
     category: "web",
+    link: "https://real-estate-web-alpha.vercel.app/",
   },
   {
     id: 2,
     image: Work2,
-    title: "App movil",
-    category: "app",
+    title: "Shoe App Design",
+    category: "design",
+    link: "https://www.behance.net/gallery/100889717/Shoe-World",
   },
   {
     id: 3,
     image: Work3,
-    title: "Brand design",
+    title: "Voice Quiz App design",
     category: "design",
+    link: "https://www.behance.net/gallery/100851587/Voice-Quiz",
   },
   {
     id: 4,
     image: Work4,
-    title: "Web design",
-    category: "web",
-  },
-  {
-    id: 5,
-    image: Work5,
-    title: "Web design",
-    category: "web",
+    title: "Audible Exploration App design",
+    category: "design",
+    link: "https://www.behance.net/gallery/100699919/Audible-Exploration",
   },
 ];
 
