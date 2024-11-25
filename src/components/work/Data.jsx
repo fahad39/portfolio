@@ -2,13 +2,20 @@ import Work1 from "../../assets/real estate web.png";
 import Work2 from "../../assets/boots.png";
 import Work3 from "../../assets/voice_quiz.png";
 import Work4 from "../../assets/audio_app.png";
-import Work5 from "../../assets/work5.jpg";
+import Work5 from "../../assets/gym-app.png";
 
 export const projectsData = [
   {
     id: 1,
     image: Work1,
     title: "Real Estate Website",
+    category: "web",
+    link: "https://real-estate-web-alpha.vercel.app/",
+  },
+  {
+    id: 5,
+    image: Work5,
+    title: "EvoGym Website",
     category: "web",
     link: "https://real-estate-web-alpha.vercel.app/",
   },
