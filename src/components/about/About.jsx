@@ -15,8 +15,8 @@ function About() {
           <Info />
           <p className="about__description">
             Frontend developer, I create web pages and mobile apps with Reactjs,
-            React Native, Bootstrap, Styled component, AWS, Nodejs, I have 3+
-            years of experience and many Clients are happy with the projects
+            React Native, Bootstrap, Styled component, AWS, Nodejs, .NET, I have
+            4+ years of experience and many Clients are happy with the projects
             carried out.
           </p>
           <a download="" href={CV} className="button button--flex">
